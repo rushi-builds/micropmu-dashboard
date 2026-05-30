@@ -25,3 +25,8 @@ This project is for academic and demonstration purposes only.
 Unauthorized use, copying, modification, or redistribution of this code is strictly prohibited without prior permission.  
 
 Patent filed for the system described in this project. All rights reserved.
+
+# Micro-PMU Dashboard
+
+🌐 Live Demo:
+https://intelligrid-platform.netlify.app/
