@@ -28,5 +28,6 @@ Patent filed for the system described in this project. All rights reserved.
 
 # Micro-PMU Dashboard
 
-🌐 Live Demo:
-https://intelligrid-platform.netlify.app/
+🌐 **Live Demo:** [IntelliGrid Platform](https://intelligrid-platform.netlify.app/)
+
+🔗 **Repository:** [micropmu-dashboard](https://github.com/rushi-builds/micropmu-dashboard)
